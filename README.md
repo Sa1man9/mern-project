@@ -1,6 +1,9 @@
 Jobify
+
 Track Your Job Search
+
 A mini project that applied MERN stack - MongoDB, ExpressJS, ReactJS, and NodeJS
+
 An application that allows users to organize their job hunting process professionally and efficiently
 
 Tech Stack
